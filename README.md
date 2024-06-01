@@ -1,4 +1,4 @@
-Exam Seating Arrangement System
+EXAM SEATING ARRANGEMENT SYSTEM
 
 Test Strategy for Exam Seating Arrangement System (Based on PPT)
 1. Introduction

@@ -1,4 +1,4 @@
-#EXAM SEATING ARRANGEMENT SYSTEM
+# EXAM SEATING ARRANGEMENT SYSTEM
 
 Test Strategy for Exam Seating Arrangement System
 1. Introduction

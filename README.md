@@ -1,7 +1,7 @@
 # EXAM SEATING ARRANGEMENT SYSTEM
 
 ## Test Strategy for Exam Seating Arrangement System
-### 1. Introduction
+## 1. Introduction
 This test strategy defines the approach for testing the "Exam Seating Arrangement System" as described in the provided presentation.
 The strategy aims to ensure the system's reliability, functionality, and usability.
 

@@ -1,14 +1,13 @@
 # EXAM SEATING ARRANGEMENT SYSTEM
 
-Test Strategy for Exam Seating Arrangement System
-1. Introduction
+## Test Strategy for Exam Seating Arrangement System
+### 1. Introduction
 This test strategy defines the approach for testing the "Exam Seating Arrangement System" as described in the provided presentation.
 The strategy aims to ensure the system's reliability, functionality, and usability.
 
-3. Scope
-Testing will cover:
+## 2. Scope Testing will cover:
 
-Functional Requirements:
+### Functional Requirements:
 
 Add/Edit Student Details
 Classroom Allocation
@@ -20,7 +19,8 @@ Report Generation
 Conflict Resolution
 Multiple Exam Handling
 Seating Arrangement Review
-Non-Functional Requirements:
+
+### Non-Functional Requirements:
 
 System Security
 System Performance
@@ -32,8 +32,9 @@ Response Time
 Accessibility
 Compliance
 Maintainability
-3. Testing Approach
-Unit Testing
+
+## 3. Testing Approach
+### Unit Testing
 
 Scope: Individual components/modules.
 Responsibility: Developers.
@@ -64,8 +65,10 @@ Scope: Re-testing after changes.
 Responsibility: QA team.
 Tools: Selenium, Jenkins.
 Automation: High.
-4. Test Cases
-Functional Requirements
+
+## 4. Test Cases
+
+### Functional Requirements
 Add/Edit Student Details
 
 Verify adding, editing, and deleting student details.
@@ -147,35 +150,42 @@ Maintainability
 
 Validate code documentation and structure.
 Ensure ease of updates and bug fixes.
-5. Test Environment
+
+## 5. Test Environment
+
 Development Environment: For unit testing.
 QA Environment: For integration, system, and regression testing.
 UAT Environment: For user acceptance testing.
 Production Environment: For final validation.
-6. Resources and Responsibilities
+
+## 6. Resources and Responsibilities
 Test Manager: Oversees the testing process.
 QA Team: Executes test cases and reports issues.
 Development Team: Fixes bugs and supports testing.
 Stakeholders: Participate in UAT and provide feedback.
-7. Schedule
+
+## 7. Schedule
 Unit Testing: Ongoing during development.
 Integration Testing: After unit testing of each module.
 System Testing: Once all modules are integrated.
 Acceptance Testing: Post system testing.
 Regression Testing: Ongoing after changes.
-8. Risk Management
+
+## 8. Risk Management
 Risk Identification: Identify potential risks (e.g., delays, resource constraints).
 Risk Mitigation: Strategies to minimize identified risks (e.g., additional resources, buffer time).
-9. Test Tools
+
+## 9. Test Tools
 Automated Testing: Selenium, JUnit, pytest.
 Performance Testing: JMeter, LoadRunner.
 Security Testing: OWASP ZAP, Burp Suite.
 Bug Tracking: Jira, Bugzilla.
 CI/CD Tools: Jenkins, GitLab CI.
-10. Metrics and Reporting
+## 10. Metrics and Reporting
 Test Coverage: Percentage of requirements covered by tests.
 Defect Density: Number of defects per module.
 Test Pass Rate: Percentage of passed test cases.
 Test Execution Status: Daily/weekly status reports.
-Conclusion
+
+## Conclusion
 This strategy ensures comprehensive coverage of all functional and non-functional requirements, utilizing a mix of manual and automated testing approaches. It aims to deliver a reliable, secure, and user-friendly exam seating arrangement system​​.
